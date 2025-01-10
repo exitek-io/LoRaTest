@@ -1,9 +1,7 @@
 Repo for testing LORA models and different parts of generation pipeline \
-
 Make sure you have installed dependencies from requirements and upgraded your libgcc \
 
 Config params: \
-
 REPO_PTH - Path baseline SD model \
 VAE_PTH - Path to VAE to use \
 LORA_PTH - Path to lora to use \
@@ -16,7 +14,6 @@ TEST_IMG_PTH - test image \
 
 Prompt example: \
 edit_prompt = "Glam, a woman with glam makeup, glam look, 4k, the best quality, masterpiece, glam thick eyebrows, glam thick eyelashes, soft eyelashes, glam blush" \
-
 
 The most important params for generation \
 skip \
